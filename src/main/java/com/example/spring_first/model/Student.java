@@ -6,8 +6,6 @@ public class Student {
     private String loginPwd;//密码
 
     private String studentName;//学生姓名
-
-
     private String sex;//性别
 
     private int gradeId;//年纪id
