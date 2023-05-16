@@ -1,5 +1,8 @@
 package com.example.spring_first.model;
 
+import lombok.Data;
+
+@Data
 public class Student {
     private String StudentNo;//学号
     private String loginPwd;//密码
