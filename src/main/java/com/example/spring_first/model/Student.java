@@ -4,7 +4,7 @@ import lombok.Data;
 
 @Data
 public class Student {
-    private String StudentNo;//学号
+    private String studentNo;//学号
     private String loginPwd;//密码
     private String studentName;//学生姓名
     private String sex;//性别
